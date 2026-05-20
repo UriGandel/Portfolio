@@ -4,7 +4,7 @@ export function SiteHeader() {
   return (
     <header className="site-header">
       <div className="site-header-inner">
-        <a className="brand" href="#top" aria-label="Uriel Gandelman Rothschild home">
+        <a className="brand" href="#top" aria-label="Uriel Gandelman home">
           <span className="brand-mark" aria-hidden="true">
             UG
           </span>

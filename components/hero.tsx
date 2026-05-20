@@ -6,7 +6,7 @@ export function Hero() {
     <section className="hero section-shell" id="top" aria-labelledby="hero-title">
       <div className="hero-copy reveal">
         <p className="eyebrow">Buenos Aires, Argentina / TIC / AI systems</p>
-        <h1 id="hero-title">Uriel Gandelman Rothschild - Software Developer &amp; Community Leader.</h1>
+        <h1 id="hero-title">Uriel Gandelman - Software Developer &amp; Community Leader.</h1>
         <p className="hero-tagline">Building AI agents, scalable systems, and participating in hackathons.</p>
         <div className="hero-actions" aria-label="Portfolio actions">
           <a className="button button-primary" href="#projects">

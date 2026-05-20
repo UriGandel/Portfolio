@@ -1,4 +1,4 @@
-# Uriel Gandelman Rothschild Portfolio Design
+# Uriel Gandelman Portfolio Design
 
 ## Product Direction
 
