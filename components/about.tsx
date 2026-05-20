@@ -22,7 +22,8 @@ export function About() {
           <p>
             I am especially interested in the bridge between low-level system design in C++ and
             high-level AI integration: from memory-aware architecture to autonomous workflows,
-            LLM-powered applications, and scalable product systems.
+            LLM-powered applications, deep learning with Keras and TensorFlow, and the math needed
+            to implement neural networks from first principles and turn that theory into code.
           </p>
         </article>
       </div>
