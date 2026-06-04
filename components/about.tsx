@@ -5,8 +5,8 @@ export function About() {
     <section className="section-shell content-band reveal" id="about" aria-labelledby="about-title">
       <SectionHeading
         eyebrow="About"
-        title="Engineering ambition with hands-on technical depth."
-        copy="I am a final-year TIC student at ORT Buenos Aires targeting a university engineering degree, with a 9.0 GPA and a portfolio shaped by competitions, systems work, and applied AI."
+        title="Hands-on technical depth."
+        copy="I am a final-year TIC student at ORT Buenos Aires, with a 9.0 GPA and a portfolio shaped by competitions, systems work, and applied AI."
       />
       <div className="about-grid">
         <article>
