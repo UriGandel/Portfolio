@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { stats } from "@/lib/content";
 
 export function Hero() {
@@ -24,18 +23,6 @@ export function Hero() {
             </div>
           ))}
         </dl>
-      </div>
-
-      <div className="hero-visual reveal delay-1" aria-label="Platanus Hack 2026 badge preview">
-        <div className="orbital-ring" aria-hidden="true" />
-        <Image
-          src="/credentials/platanus-hack-26-UriGandel.jpg"
-          alt="Platanus Hack 2026 hacker badge for Uriel Gandelman"
-          width={1080}
-          height={1350}
-          priority
-          className="badge-image"
-        />
       </div>
     </section>
   );
